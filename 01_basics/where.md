@@ -33,11 +33,11 @@ Only rows where the department value is IT will be returned.
 
 You can filter numeric values using operators like:
 
-=   equal to  
->   greater than  
-<   less than  
->=  greater than or equal to  
-<=  less than or equal to  
+1.=   equal to  
+2.>   greater than  
+3.<   less than  
+4.>=  greater than or equal to  
+5.<=  less than or equal to  
 
 Example: employees with salary greater than 50000.
 
