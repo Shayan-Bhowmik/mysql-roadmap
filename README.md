@@ -37,17 +37,16 @@ By completing this roadmap, you will learn:
 
 ## How to Use This Repository (Important)
 
-This repository is meant to be followed step by step.
+Quick start for beginners:
 
-Recommended way to start:
-
-1. Load the datasets from the datasets folder
-2. Open and follow STUDY_SEQUENCE.md
-3. Study each module in the given order
+1. Read SETUP.md and load the datasets
+2. Open STUDY_SEQUENCE.md
+3. Follow the modules in the given order
 4. Run and modify the SQL queries yourself
 5. Do not skip practice files
 
-Always refer to STUDY_SEQUENCE.md for the correct learning order.
+
+This repository is recommended to be followed step by step.
 
 ---
 
