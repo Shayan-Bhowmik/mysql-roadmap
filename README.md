@@ -51,22 +51,6 @@ Always refer to STUDY_SEQUENCE.md for the correct learning order.
 
 ---
 
-## Repository Structure Overview
-
-mysql-roadmap  
-01_basics – SQL fundamentals and setup  
-02_filtering_sorting – WHERE, ORDER BY, LIMIT, OFFSET  
-03_aggregations – COUNT, SUM, GROUP BY, HAVING  
-04_joins – INNER, LEFT, RIGHT, and FULL JOINs  
-05_subqueries – Subqueries and nested logic  
-06_constraints_indexes – Data integrity and performance  
-07_real_world_queries – Business-style SQL problems  
-08_interview_questions – Beginner to advanced interview prep  
-datasets – Ready-to-use SQL datasets  
-STUDY_SEQUENCE.md – Exact order to study this repository  
-
----
-
 ## SQL Dialect Used
 
 MySQL
