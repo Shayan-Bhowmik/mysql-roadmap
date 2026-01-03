@@ -7,6 +7,22 @@ JOINs allow you to retrieve meaningful data spread across multiple tables.
 
 ---
 
+### Note on Tables Used in JOIN Examples
+
+For JOIN examples, this roadmap uses two tables:
+- employees
+- departments
+
+The departments table is provided in the datasets folder.
+
+In real-world databases, tables are often linked using IDs
+(for example, employees.department_id referencing departments.id).
+
+The JOIN examples focus on understanding the JOIN concept,
+not database design details.
+
+---
+
 ### What is INNER JOIN?
 INNER JOIN returns only the rows that have matching values in both tables.
 
