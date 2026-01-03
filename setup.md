@@ -18,17 +18,12 @@ You need any ONE of the following:
 
 ## Step 1: Create a Database
 
-Before loading tables, create a database.
-
-Run this command:
-
-CREATE DATABASE mysql_roadmap;
-
-Then select the database:
-
-USE mysql_roadmap;
-
-All tables will be created inside this database.
+• Before loading tables, create a database.
+• Run this command:
+• CREATE DATABASE mysql_roadmap;
+• Then select the database:
+• USE mysql_roadmap;
+• All tables will be created inside this database.
 
 ---
 
@@ -66,16 +61,16 @@ Once done, your database is ready.
 1. Open terminal
 2. Login to MySQL:
 
-mysql -u your_username -p
+ - mysql -u your_username -p
 
 3. Select the database:
 
-USE mysql_roadmap;
+ - USE mysql_roadmap;
 
 4. Run dataset files:
 
-SOURCE path/to/employees.sql;
-SOURCE path/to/departments.sql;
+ - SOURCE path/to/employees.sql;
+ - SOURCE path/to/departments.sql;
 
 Replace the path with the actual file location.
 
