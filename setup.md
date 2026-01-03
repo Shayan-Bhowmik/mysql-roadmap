@@ -21,12 +21,10 @@ You need any ONE of the following:
 1. Before loading tables, create a database.
 
 2. Run this command:
-
- - CREATE DATABASE mysql_roadmap;
+- CREATE DATABASE mysql_roadmap;
 
 3. Then select the database:
-
- - USE mysql_roadmap;
+- USE mysql_roadmap;
 
 4. All tables will be created inside this database.
 
